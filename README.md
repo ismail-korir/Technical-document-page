@@ -7,11 +7,8 @@ A technical document page created using HTML5 and CSS3 to provide detailed techn
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
@@ -39,13 +36,3 @@ To run the project locally or host it on your server, follow these steps:
    ```bash
    git clone https://github.com/your-username/technical-document-page.git
 
-  ## Usage
-Open the index.html file in your web browser to access the technical document page.
-
-Navigate through the documentation using the provided links and table of contents.
-
-Read and study the technical content and examples presented in the document.
-
-Customize the content and styling to suit your specific technical topic and needs.
-
-Consider using this project as a template for creating your own technical documentation.
